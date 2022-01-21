@@ -1,4 +1,4 @@
 # WhitePaper
-Alyattes White Paper v1.0
+Alyattes White Paper
 
 - Alyattes White Paper All Languages
